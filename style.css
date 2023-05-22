@@ -1,0 +1,19 @@
+p{
+    
+    color: aquamarine;
+}
+h3{
+    color: rgb(255, 196, 244);
+}
+.external{
+    color: brown;
+    background-color: black;
+}
+#change{
+    color: green;
+}
+.position{
+    margin-left: 150px;
+    border: 2px solid blue;
+    padding-left: 20px;
+}
